@@ -1,0 +1,7 @@
+flask
+flask-ngrok
+pyngrok
+diffusers
+accelerate
+torch
+Pillow
